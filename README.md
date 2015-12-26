@@ -49,8 +49,8 @@ y una vez lo tengas listo, solicita un pull request.
 
 Si lo que quieres es proponer cambios o reportar fallos, ve a la sección anterior. De lo contrario:
 
-Correo: [GersonLazaro@GersonLazaro.com](mailto:GersonLazaro@GersonLazaro.com). 
-Twitter: [@GersonLazaroC](http://www.twitter.com/GersonLazaroC)
+* Correo: [GersonLazaro@GersonLazaro.com](mailto:GersonLazaro@GersonLazaro.com). 
+* Twitter: [@GersonLazaroC](http://www.twitter.com/GersonLazaroC)
 
 
 ## Licencia
