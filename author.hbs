@@ -8,7 +8,6 @@
     <header class="main-header author-head {{#if cover}}" style="background-image: url({{cover}}){{else}}no-cover{{/if}}">
         <nav class="main-nav overlay clearfix">
             <a class="back-button icon-arrow-left" href="{{@blog.url}}">Inicio</a>
-            {{#if @blog.logo}}<a class="blog-logo" href="{{@blog.url}}"><img src="{{@blog.logo}}" alt="Blog Logo" /></a>{{/if}}
             {{#if @blog.navigation}}
                 <a class="menu-button" href="/suscribete"><span class="burger">&#9776;</span><span class="word">Suscríbete</span></a>
             {{/if}}

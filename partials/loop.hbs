@@ -10,10 +10,9 @@
         <h2 class="post-title"><a href="{{url}}">{{{title}}}</a></h2>
     </header>
     <section class="post-excerpt">
-        <p>{{excerpt words="65"}}... <a class="read-more" href="{{url}}">Seguir leyendo&raquo;</a></p>
+        <p>{{excerpt words="65"}}... <a class="read-more" href="{{url}}">Ver mas</a></p>
     </section>
     <footer class="post-meta">
-        {{#if author.image}}<img class="author-thumb" src="{{author.image}}" alt="Author image" nopin="nopin" />{{/if}}
         {{author}}
         {{tags prefix=" en "}}
         <time class="post-date" datetime="{{date format='YYYY-MM-DD'}}">{{date format="DD MMMM YYYY"}}</time>
